@@ -1,0 +1,7 @@
+makanan favorit:
+-sate
+-bakso
+-nasi sambal teri
+-ikan/ayam bakar
+
+
